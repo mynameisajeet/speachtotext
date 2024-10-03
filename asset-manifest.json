@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/speachtotext/static/css/main.424d3777.css",
-    "main.js": "/speachtotext/static/js/main.1a572d58.js",
-    "static/js/453.beccc053.chunk.js": "/speachtotext/static/js/453.beccc053.chunk.js",
-    "index.html": "/speachtotext/index.html",
-    "main.424d3777.css.map": "/speachtotext/static/css/main.424d3777.css.map",
-    "main.1a572d58.js.map": "/speachtotext/static/js/main.1a572d58.js.map",
-    "453.beccc053.chunk.js.map": "/speachtotext/static/js/453.beccc053.chunk.js.map"
+    "main.css": "/speachtotextgit/static/css/main.7c28972e.css",
+    "main.js": "/speachtotextgit/static/js/main.c92163d9.js",
+    "static/js/453.beccc053.chunk.js": "/speachtotextgit/static/js/453.beccc053.chunk.js",
+    "index.html": "/speachtotextgit/index.html",
+    "main.7c28972e.css.map": "/speachtotextgit/static/css/main.7c28972e.css.map",
+    "main.c92163d9.js.map": "/speachtotextgit/static/js/main.c92163d9.js.map",
+    "453.beccc053.chunk.js.map": "/speachtotextgit/static/js/453.beccc053.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.424d3777.css",
-    "static/js/main.1a572d58.js"
+    "static/css/main.7c28972e.css",
+    "static/js/main.c92163d9.js"
   ]
 }
